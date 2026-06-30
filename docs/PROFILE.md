@@ -15,7 +15,7 @@ GitHub displays `README.md` from a **public** repository with the **same name as
 
 ## Design system
 
-Matched to the [Portofolio](https://github.com/CyrusSE/Portofolio) site:
+Matched to the live portfolio at [cyshe.me](https://cyshe.me):
 
 | Token | Value | Usage |
 |-------|-------|--------|
@@ -36,7 +36,7 @@ Matched to the [Portofolio](https://github.com/CyrusSE/Portofolio) site:
 **Portfolio badge**
 
 ```markdown
-[![Portfolio](https://img.shields.io/badge/portfolio-Portofolio-c4f042?style=for-the-badge&labelColor=0a0c10&logo=github&logoColor=c4f042)](https://github.com/CyrusSE/Portofolio)
+[![Portfolio](https://img.shields.io/badge/portfolio-cyshe.me-c4f042?style=for-the-badge&labelColor=0a0c10&logo=googlechrome&logoColor=c4f042)](https://cyshe.me)
 ```
 
 **LinkedIn badge** (local — shields.io no longer embeds `logo=linkedin`)

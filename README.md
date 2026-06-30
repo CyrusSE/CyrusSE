@@ -4,7 +4,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/portfolio-Portofolio-c4f042?style=for-the-badge&labelColor=0a0c10&logo=github&logoColor=c4f042)](https://github.com/CyrusSE/Portofolio)
+[![Portfolio](https://img.shields.io/badge/portfolio-cyshe.me-c4f042?style=for-the-badge&labelColor=0a0c10&logo=googlechrome&logoColor=c4f042)](https://cyshe.me)
 [![LinkedIn](./assets/badge-linkedin.svg)](https://linkedin.com/in/faisalsan)
 [![Email](https://img.shields.io/badge/email-faisal15ihsan%40gmail.com-0a0c10?style=for-the-badge&labelColor=2a3140&logo=gmail&logoColor=c4f042)](mailto:faisal15ihsan@gmail.com)
 [![Location](https://img.shields.io/badge/Jakarta-Indonesia-8b93a7?style=for-the-badge&labelColor=0a0c10&logo=googlemaps&logoColor=c4f042)](https://github.com/CyrusSE)
@@ -93,7 +93,7 @@ Recognitions from coordinated vulnerability disclosure and security programs:
 | 🥈 | CTF ARA 7.0 · TeknoCom 2026 · Technoskill · Cyber Competition |
 | 🥉 | Waskita Manungal Siber · Gunadarma Code Week 2.0 · Rising Phoenix 3.0 |
 
-<sub>+ finalists at PLAY IT 2026, FIND IT!, Hology, GEMASTIK · [full list in portfolio](https://github.com/CyrusSE/Portofolio)</sub>
+<sub>+ finalists at PLAY IT 2026, FIND IT!, Hology, GEMASTIK · [full list in portfolio](https://cyshe.me)</sub>
 
 ## `projects --featured`
 
@@ -103,7 +103,7 @@ Recognitions from coordinated vulnerability disclosure and security programs:
 | [**use-skills**](https://github.com/CyrusSE/use-skills) | `Agent Skills` | Quality-first meta-skill — scan, match, fail closed |
 | [**Growtopia Internal Cheat**](https://github.com/CyrusSE/Growtopia-Internal-Cheat) | `C++` | ImGui research — hooks, overlays, RE tooling |
 | [**CTF Writeups**](https://github.com/CyrusSE/CTF-Writeups) | `Python` | Web · pwn · crypto · forensics · misc |
-| [**Portofolio**](https://github.com/CyrusSE/Portofolio) | `React` | This site — terminal hero, glass UI, motion |
+| [**Portofolio**](https://cyshe.me) | `React` | Live site — terminal hero, glass UI, motion |
 
 <details>
 <summary><code>$ ls skills/</code></summary>
@@ -147,6 +147,6 @@ Cross-language prototyping · exploit research acceleration · code review · do
 
 <br />
 
-<sub>// end of file · built to match <a href="https://github.com/CyrusSE/Portofolio">Portofolio</a> · palette <code>#0a0c10</code> + <code>#c4f042</code></sub>
+<sub>// end of file · built to match <a href="https://cyshe.me">cyshe.me</a> · palette <code>#0a0c10</code> + <code>#c4f042</code></sub>
 
 </div>
