@@ -12,6 +12,8 @@ GitHub displays `README.md` from a **public** repository with the **same name as
 | `assets/header.svg` | Terminal-style banner (portfolio palette) |
 | `assets/badge-linkedin.svg` | LinkedIn badge (shields.io dropped linkedin icon) |
 | `assets/badge-linkedin-flat.svg` | Flat LinkedIn badge for connect row |
+| `assets/badge-website.svg` | Website badge with embedded globe icon |
+| `assets/badge-website-flat.svg` | Flat website badge for connect row |
 
 ## Design system
 
@@ -36,7 +38,7 @@ Matched to the live portfolio at [cyshe.me](https://cyshe.me):
 **Portfolio badge**
 
 ```markdown
-[![Portfolio](https://img.shields.io/badge/portfolio-cyshe.me-c4f042?style=for-the-badge&labelColor=0a0c10&logo=googlechrome&logoColor=c4f042)](https://cyshe.me)
+[![Website](./assets/badge-website.svg)](https://cyshe.me)
 ```
 
 **LinkedIn badge** (local — shields.io no longer embeds `logo=linkedin`)

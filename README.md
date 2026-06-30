@@ -4,7 +4,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/portfolio-cyshe.me-c4f042?style=for-the-badge&labelColor=0a0c10&logo=googlechrome&logoColor=c4f042)](https://cyshe.me)
+[![Website](./assets/badge-website.svg)](https://cyshe.me)
 [![LinkedIn](./assets/badge-linkedin.svg)](https://linkedin.com/in/faisalsan)
 [![Email](https://img.shields.io/badge/email-faisal15ihsan%40gmail.com-0a0c10?style=for-the-badge&labelColor=2a3140&logo=gmail&logoColor=c4f042)](mailto:faisal15ihsan@gmail.com)
 [![Location](https://img.shields.io/badge/Jakarta-Indonesia-8b93a7?style=for-the-badge&labelColor=0a0c10&logo=googlemaps&logoColor=c4f042)](https://github.com/CyrusSE)
@@ -140,6 +140,7 @@ Cross-language prototyping · exploit research acceleration · code review · do
 
 <div align="center">
 
+[![Website](./assets/badge-website-flat.svg)](https://cyshe.me)
 [![GitHub](https://img.shields.io/badge/GitHub-CyrusSE-c4f042?style=flat-square&logo=github&logoColor=0a0c10&labelColor=0a0c10)](https://github.com/CyrusSE)
 [![LinkedIn](./assets/badge-linkedin-flat.svg)](https://linkedin.com/in/faisalsan)
 [![Foresty Lab](https://img.shields.io/badge/Foresty_Lab-forestylab.com-c4f042?style=flat-square&logo=google-chrome&logoColor=0a0c10&labelColor=0a0c10)](https://forestylab.com/)
