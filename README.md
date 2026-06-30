@@ -5,9 +5,9 @@
 <br />
 
 [![Portfolio](https://img.shields.io/badge/portfolio-Portofolio-c4f042?style=for-the-badge&labelColor=0a0c10&logo=github&logoColor=c4f042)](https://github.com/CyrusSE/Portofolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-faisalsan-0a0c10?style=for-the-badge&labelColor=c4f042&logo=linkedin&logoColor=0a0c10)](https://linkedin.com/in/faisalsan)
+[![LinkedIn](./assets/badge-linkedin.svg)](https://linkedin.com/in/faisalsan)
 [![Email](https://img.shields.io/badge/email-faisal15ihsan%40gmail.com-0a0c10?style=for-the-badge&labelColor=2a3140&logo=gmail&logoColor=c4f042)](mailto:faisal15ihsan@gmail.com)
-[![Location](https://img.shields.io/badge/Jakarta-Indonesia-8b93a7?style=for-the-badge&labelColor=0a0c10)](https://github.com/CyrusSE)
+[![Location](https://img.shields.io/badge/Jakarta-Indonesia-8b93a7?style=for-the-badge&labelColor=0a0c10&logo=googlemaps&logoColor=c4f042)](https://github.com/CyrusSE)
 
 </div>
 
@@ -35,21 +35,21 @@ AI-assisted security research.
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CyrusSE&show_icons=true&theme=transparent&bg_color=0a0c10&text_color=e8eaed&icon_color=c4f042&title_color=c4f042&border_color=2a3140&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyrusSE&theme=github_dark" alt="GitHub stats" width="100%" />
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyrusSE&theme=dark&background=0a0c10&border=2a3140&ring=c4f042&fire=c4f042&currStreakLabel=c4f042&sideLabels=e8eaed&dates=8b93a7" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=CyrusSE&theme=dark&background=0a0c10&border=2a3140&ring=c4f042&fire=c4f042&currStreakLabel=c4f042&sideLabels=e8eaed&dates=8b93a7" alt="GitHub streak" width="100%" />
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusSE&layout=compact&theme=transparent&bg_color=0a0c10&text_color=e8eaed&title_color=c4f042&border_color=2a3140&hide_border=false&langs_count=8" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyrusSE&theme=github_dark" alt="Top languages" />
 
 </td>
 </tr>
@@ -141,7 +141,7 @@ Cross-language prototyping · exploit research acceleration · code review · do
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-CyrusSE-c4f042?style=flat-square&logo=github&logoColor=0a0c10&labelColor=0a0c10)](https://github.com/CyrusSE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-faisalsan-c4f042?style=flat-square&logo=linkedin&logoColor=0a0c10&labelColor=0a0c10)](https://linkedin.com/in/faisalsan)
+[![LinkedIn](./assets/badge-linkedin-flat.svg)](https://linkedin.com/in/faisalsan)
 [![Foresty Lab](https://img.shields.io/badge/Foresty_Lab-forestylab.com-c4f042?style=flat-square&logo=google-chrome&logoColor=0a0c10&labelColor=0a0c10)](https://forestylab.com/)
 [![TelSec](https://img.shields.io/badge/TelSec-Instagram-c4f042?style=flat-square&logo=instagram&logoColor=0a0c10&labelColor=0a0c10)](https://www.instagram.com/telsec_telu/)
 

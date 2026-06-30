@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182" height="28" role="img" aria-label="LinkedIn: faisalsan">
+  <title>LinkedIn: faisalsan</title>
+  <g shape-rendering="crispEdges">
+    <rect width="83" height="28" fill="#c4f042"/>
+    <rect x="83" width="99" height="28" fill="#0a0c10"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <image x="9" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMGEwYzEwIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy4xOTF2MS41NjFoLjA0NmExLjUgMS41IDAgMCAxIDEuMzY5LS43NTJjMS40NjEgMCAxLjcyNy45NjQgMS43MjcgMi4yMTV2NS40MzF6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjQgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNHpNNS4zMzcgMjAuNDUyaC0zLjY2OVY5aDMuNjY5djExLjQ1MnoiLz48L3N2Zz4="/>
+    <text transform="scale(.1)" x="415" y="175" textLength="590" fill="#0a0c10" font-weight="bold">LINKEDIN</text>
+    <text transform="scale(.1)" x="1325" y="175" textLength="750" font-weight="bold">FAISALSAN</text>
+  </g>
+</svg>

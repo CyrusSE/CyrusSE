@@ -10,6 +10,8 @@ GitHub displays `README.md` from a **public** repository with the **same name as
 |------|---------|
 | `README.md` | Profile content shown on github.com/CyrusSE |
 | `assets/header.svg` | Terminal-style banner (portfolio palette) |
+| `assets/badge-linkedin.svg` | LinkedIn badge (shields.io dropped linkedin icon) |
+| `assets/badge-linkedin-flat.svg` | Flat LinkedIn badge for connect row |
 
 ## Design system
 
@@ -37,10 +39,18 @@ Matched to the [Portofolio](https://github.com/CyrusSE/Portofolio) site:
 [![Portfolio](https://img.shields.io/badge/portfolio-Portofolio-c4f042?style=for-the-badge&labelColor=0a0c10&logo=github&logoColor=c4f042)](https://github.com/CyrusSE/Portofolio)
 ```
 
-**GitHub stats card (portfolio colors)**
+**LinkedIn badge** (local — shields.io no longer embeds `logo=linkedin`)
 
 ```markdown
-<img src="https://github-readme-stats.vercel.app/api?username=CyrusSE&show_icons=true&theme=transparent&bg_color=0a0c10&text_color=e8eaed&icon_color=c4f042&title_color=c4f042&border_color=2a3140" />
+[![LinkedIn](./assets/badge-linkedin.svg)](https://linkedin.com/in/faisalsan)
+```
+
+**GitHub stats** (`github-readme-stats.vercel.app` often 503 — use summary cards)
+
+```markdown
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyrusSE&theme=github_dark" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyrusSE&theme=github_dark" alt="Top languages" />
+<img src="https://streak-stats.demolab.com/?user=CyrusSE&theme=dark&background=0a0c10&border=2a3140&ring=c4f042&fire=c4f042&currStreakLabel=c4f042" alt="GitHub streak" />
 ```
 
 ## Local preview
@@ -56,6 +66,6 @@ For pixel-perfect review, push to a branch and view on GitHub.
 
 ## Notes
 
-- `github-readme-stats` and `github-readme-streak-stats` are third-party services; cards load from external URLs.
-- Private repo contributions appear in stats only when `count_private=true` (already set on the stats card).
+- Stats use `github-profile-summary-cards` + `streak-stats.demolab.com` (rickstaa/vercel stats often down).
+- LinkedIn shields use repo SVGs; `logo=linkedin` no longer renders on img.shields.io.
 - Profile README does **not** support custom CSS — use shields, HTML tables, `<details>`, and images.
