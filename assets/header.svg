@@ -12,9 +12,9 @@
   <circle cx="74" cy="48" r="6" fill="#febc2e"/>
   <circle cx="96" cy="48" r="6" fill="#28c840"/>
   <text x="118" y="53" fill="#8b93a7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">faisal@cyrus:~</text>
-  <text x="48" y="98" fill="#c4f042" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">// portfolio.index  security researcher</text>
+  <text x="48" y="98" fill="#c4f042" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">// portfolio.index - security researcher</text>
   <text x="48" y="138" fill="#e8eaed" font-family="ui-sans-serif, system-ui, sans-serif" font-size="42" font-weight="700">Faisal Ihsan Santoso</text>
-  <text x="48" y="172" fill="#8b93a7" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22">offensive security · VDP · CTF · AI-assisted research</text>
+  <text x="48" y="172" fill="#8b93a7" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22">offensive security | VDP | CTF | AI-assisted research</text>
   <rect x="900" y="118" width="252" height="58" rx="12" fill="url(#glow)" stroke="#3a4a28"/>
   <text x="926" y="154" fill="#c4f042" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">~/cyrus</text>
 </svg>
