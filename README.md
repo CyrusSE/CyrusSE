@@ -13,17 +13,9 @@
 
 ---
 
-```bash
-$ whoami
-faisal@cyrus — security researcher / CTF / VDP
+Final-year Information Technology student at Telkom University with focus on offensive security, vulnerability disclosure, CTF competition, and AI-assisted security research.
 
-$ cat about.txt
-Final-year Information Technology student at Telkom University focused on offensive
-security, vulnerability assessment, responsible disclosure, CTF competition, and
-AI-assisted security research.
-```
-
-## `status --live`
+## Professional Snapshot
 
 | GPA | CTF | Acknowledgements | Projects | Campus |
 |:---:|:---:|:----------------:|:--------:|:------:|
@@ -55,23 +47,14 @@ AI-assisted security research.
 </tr>
 </table>
 
-## `sections[]`
+## Focus Areas
 
-```text
-experience  achievements  acknowledgements  skills  projects  campus  education  contact
-```
+- Penetration testing and red-team operations
+- Responsible disclosure and coordinated vulnerability reporting
+- CTF competition across web, pwn, crypto, and forensics
+- Security workflow acceleration using AI tooling
 
-<table>
-<tr>
-<td>
-
-**Security Researcher** · penetration testing · responsible disclosure · CTF competition
-
-</td>
-</tr>
-</table>
-
-## `experience --recent`
+## Recent Experience
 
 | Role | Org | Period |
 |------|-----|--------|
@@ -79,13 +62,13 @@ experience  achievements  acknowledgements  skills  projects  campus  education 
 | IT Security – Blue Team | PT. Pertamina Marine Engineering | `Apr 2025 – Sep 2025` |
 | Discord Bot Developer | Growtopia utilities · Python / discord.py | `2021 – 2023` |
 
-## `ack --top`
+## Key Acknowledgements
 
 Recognitions from coordinated vulnerability disclosure and security programs:
 
 `NASA VDP` · `BSSN VVIP / Bug Hunter` · `KOMDIGI-CSIRT` · `NTU NSOC` · `PuTI Bug Bounty`
 
-## `ctf --podium`
+## CTF Highlights
 
 | Rank | Event |
 |:----:|-------|
@@ -93,9 +76,9 @@ Recognitions from coordinated vulnerability disclosure and security programs:
 | 🥈 | CTF ARA 7.0 · TeknoCom 2026 · Technoskill · Cyber Competition |
 | 🥉 | Waskita Manungal Siber · Gunadarma Code Week 2.0 · Rising Phoenix 3.0 |
 
-<sub>+ finalists at PLAY IT 2026, FIND IT!, Hology, GEMASTIK · [full list in portfolio](https://cyshe.me)</sub>
+<sub>Finalist appearances: PLAY IT 2026, FIND IT!, Hology, GEMASTIK · <a href="https://cyshe.me">full list</a></sub>
 
-## `projects --featured`
+## Featured Projects
 
 | Project | Stack | About |
 |---------|-------|-------|
@@ -103,10 +86,10 @@ Recognitions from coordinated vulnerability disclosure and security programs:
 | [**use-skills**](https://github.com/CyrusSE/use-skills) | `Agent Skills` | Quality-first meta-skill — scan, match, fail closed |
 | [**Growtopia Internal Cheat**](https://github.com/CyrusSE/Growtopia-Internal-Cheat) | `C++` | ImGui research — hooks, overlays, RE tooling |
 | [**CTF Writeups**](https://github.com/CyrusSE/CTF-Writeups) | `Python` | Web · pwn · crypto · forensics · misc |
-| [**Portofolio**](https://cyshe.me) | `React` | Live site — terminal hero, glass UI, motion |
+| [**Portofolio**](https://cyshe.me) | `React` | Live portfolio website and case-study hub |
 
 <details>
-<summary><code>$ ls skills/</code></summary>
+<summary><strong>Technical Skills</strong></summary>
 
 <br />
 
@@ -125,7 +108,7 @@ Cross-language prototyping · exploit research acceleration · code review · do
 </details>
 
 <details>
-<summary><code>$ campus --leadership</code></summary>
+<summary><strong>Campus Leadership</strong></summary>
 
 <br />
 
@@ -136,18 +119,17 @@ Cross-language prototyping · exploit research acceleration · code review · do
 
 </details>
 
-## `connect`
+## Contact
 
 <div align="center">
 
 [![Website](./assets/badge-website-flat.svg)](https://cyshe.me)
 [![GitHub](https://img.shields.io/badge/GitHub-CyrusSE-c4f042?style=flat-square&logo=github&logoColor=0a0c10&labelColor=0a0c10)](https://github.com/CyrusSE)
 [![LinkedIn](./assets/badge-linkedin-flat.svg)](https://linkedin.com/in/faisalsan)
-[![Foresty Lab](https://img.shields.io/badge/Foresty_Lab-forestylab.com-c4f042?style=flat-square&logo=google-chrome&logoColor=0a0c10&labelColor=0a0c10)](https://forestylab.com/)
-[![TelSec](https://img.shields.io/badge/TelSec-Instagram-c4f042?style=flat-square&logo=instagram&logoColor=0a0c10&labelColor=0a0c10)](https://www.instagram.com/telsec_telu/)
+[![Email](https://img.shields.io/badge/Email-faisal15ihsan%40gmail.com-c4f042?style=flat-square&logo=gmail&logoColor=0a0c10&labelColor=0a0c10)](mailto:faisal15ihsan@gmail.com)
 
 <br />
 
-<sub>// end of file · built to match <a href="https://cyshe.me">cyshe.me</a> · palette <code>#0a0c10</code> + <code>#c4f042</code></sub>
+<sub>Built to match <a href="https://cyshe.me">cyshe.me</a> · palette <code>#0a0c10</code> + <code>#c4f042</code></sub>
 
 </div>
